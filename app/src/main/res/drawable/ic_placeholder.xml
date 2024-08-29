@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="40dp"
+    android:height="60dp"
+    android:viewportWidth="40"
+    android:viewportHeight="60">
+
+    <!-- Background rectangle with rounded corners -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M0,0h40v60h-40z"
+        android:strokeWidth="1"
+        android:strokeColor="#BDBDBD" />
+
+    <!-- Icon representing a picture frame (optional) -->
+    <path
+        android:fillColor="#BDBDBD"
+        android:pathData="M10,15h20v30h-20z M15,20l10,10l10,-10v20h-20z" />
+</vector>
+
